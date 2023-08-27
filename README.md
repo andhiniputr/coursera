@@ -1,2 +1,2 @@
 # coursera
-This repository for my coursera assignment
+Hello! This repository for my coursera assignment.
